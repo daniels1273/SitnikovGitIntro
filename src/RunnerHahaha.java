@@ -19,6 +19,6 @@ public class RunnerHahaha {
             yAmount = 7896785;
         }
 
-        System.out.println("a" + isEasyReal + xAmount + yAmount);
+        System.out.println("a " + isEasyReal + " " + xAmount + " " + yAmount);
     }
 }
