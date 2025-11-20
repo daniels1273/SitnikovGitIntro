@@ -20,5 +20,6 @@ public class RunnerHahaha {
         }
 
         System.out.println("a " + isEasyReal + " " + xAmount + " " + yAmount);
+        System.out.println("changes...");
     }
 }
